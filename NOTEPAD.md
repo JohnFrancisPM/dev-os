@@ -52,4 +52,7 @@ Create two project-level Claude Code subagents with `memory: project`. Only crea
 * If revision is needed, send all issues back to `implementation-spec-planner` and repeat until approved.
 * Store review history in project memory.
 
+### Setting up a Supabase DB
+https://github.com/JohnFrancisPM/MLAI-community-labs/blob/main/Cohort-Labs/cohort-10/Optional%20Lab/01%20-%20ai-app-development-with-claude/02-Building-the-Application-Lab/01-building-the-application/readme.md
+
 Create both agents under `.claude/agents/` and stop. Do not generate the implementation spec until `implementation-spec-planner` is explicitly invoked.
